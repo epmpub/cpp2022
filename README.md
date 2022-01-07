@@ -8,3 +8,4 @@ perfect forward
 - constexpr
 - type_traits
 - [std::decay](https://stackoverflow.com/questions/25732386/)
+- Bind
